@@ -3,11 +3,7 @@ package Tigers.api.test.review.data;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import com.github.javafaker.Address;
 import com.github.javafaker.Faker;
-import com.github.javafaker.Job;
-import com.github.javafaker.Name;
-import com.github.javafaker.PhoneNumber;
 
 public class dataGenerator {
 	
